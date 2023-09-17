@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/seodectorproject/static/css/main.e6c13ad2.css",
+    "main.js": "/seodectorproject/static/js/main.54cfa7e8.js",
+    "static/js/787.b7b0c54c.chunk.js": "/seodectorproject/static/js/787.b7b0c54c.chunk.js",
+    "index.html": "/seodectorproject/index.html",
+    "main.e6c13ad2.css.map": "/seodectorproject/static/css/main.e6c13ad2.css.map",
+    "main.54cfa7e8.js.map": "/seodectorproject/static/js/main.54cfa7e8.js.map",
+    "787.b7b0c54c.chunk.js.map": "/seodectorproject/static/js/787.b7b0c54c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.54cfa7e8.js"
+  ]
+}
